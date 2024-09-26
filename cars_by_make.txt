@@ -1,0 +1,4 @@
+ID: 1, Make: Toyota, Model: Corolla, Year: 2010, Color: Blue, Price: $8000.0, Registration: ABC123
+ID: 4, Make: Toyota, Model: Camry, Year: 2012, Color: White, Price: $9000.0, Registration: QRS321
+ID: 6, Make: Toyota, Model: RAV4, Year: 2020, Color: Silver, Price: $25000.0, Registration: JKL012
+ID: 9, Make: Toyota, Model: Highlander, Year: 2021, Color: Gray, Price: $35000.0, Registration: STU901

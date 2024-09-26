@@ -1,0 +1,1 @@
+ID: 2, Make: Honda, Model: Civic, Year: 2015, Color: Black, Price: $12000.0, Registration: XYZ456
